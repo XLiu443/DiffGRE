@@ -10,6 +10,7 @@ In this paper, we investigate a practical yet challenging task: On-the-fly Categ
 
 
 
+![intro](DiffGRE_fig2.PNG)
 
 
 ## License
